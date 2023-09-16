@@ -25,7 +25,7 @@
    
  <br/> 
  
- [![daniel0406070's github stats](https://github-readme-stats.vercel.app/api?username=daniel0406070&show_icons=true&theme=dracula)](https://github.com/daniel0406070)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daniel040607)](https://solved.ac/daniel040607) [![daniel0406070's github stats](https://github-readme-stats.vercel.app/api?username=daniel0406070&show_icons=true&theme=dracula)](https://github.com/daniel0406070)
 
 </div>
 
