@@ -12,6 +12,10 @@
   
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-373737?style=flat-square&logo=C&logoColor=white"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
+  <a href="https://www.typescriptlang.org/"><img alt="Static Badge" src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
+	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+
   
  <br/> 
 
